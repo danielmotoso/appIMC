@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
                     alerta
                             .setMessage(" Por favor preenças os campos corretamente")
                             .setCancelable(false)
-                            .setNegativeButton("OK", new DialogInterface.OnClickListener() {
+                            .setNegativeButton("TESTE", new DialogInterface.OnClickListener() {
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
 
